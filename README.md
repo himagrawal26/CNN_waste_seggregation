@@ -1,0 +1,1 @@
+# CNN_waste_seggregation
